@@ -1,0 +1,27 @@
+{
+  "name": "rest-api-test",
+  "version": "1.0.0",
+  "description": "A Simply  REST-API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunomelo98/REST-API-TEST.git"
+  },
+  "author": "Nuno Melo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nunomelo98/REST-API-TEST/issues"
+  },
+  "homepage": "https://github.com/nunomelo98/REST-API-TEST#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "migrate-mongo": "^8.2.2",
+    "standard": "^16.0.3"
+  }
+}
